@@ -1,0 +1,6 @@
+@DailyQuoteAPI_HostAddress = http://localhost:5076
+
+GET {{DailyQuoteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
